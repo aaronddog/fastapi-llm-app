@@ -2,7 +2,15 @@
 
 A FastAPI application integrated with OpenAI
 
-## Setup
+## Quick Setup
+
+To quickly start the application, run:
+
+```bash
+./run.sh
+```
+
+## Manual Setup
 
 ### 1. Create and Activate Virtual Environment
 
